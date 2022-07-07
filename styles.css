@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif, Helvetica, sans-serif;
+    padding:50px;
+}
+body{
+    text-align: center;
+    margin-top:50px;
+}
+
+.header{
+    padding:20px;
+    color: #fff;
+    background-color:rgb(42, 132, 229);
+    
+}
+
+.code1,.code2,.code3{
+    padding:20px;
+}
+a{
+    text-decoration: underline;
+    color:black;
+    font-size:30px;
+    padding: 10px 5px;
+}
+a:hover{
+    color:rgb(43, 172, 237);
+}
+
+.back{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+}
+form{
+    align-items: center;
+    text-align: center;
+}
+input {
+     
+    padding: 12px 20px;
+    margin: 8px 0;
+   
+    border: 1px solid #ccc;
+    border-radius: 4px;
+   
+    
+  }
+  input[submit] {
+    width: 50%;
+    background-color: #4CAF50;
+    color: white; 
+     
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
